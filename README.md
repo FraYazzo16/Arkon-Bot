@@ -29,16 +29,10 @@ Bot Discord sviluppato in **JavaScript** tramite **Discord Bot Maker**. Progetta
 1. Clonare il repository:
 
    ```bash
-   git clone https://github.com/tuo-utente/open-space-discord-bot.git
+   git clone https://github.com/FraYazzo16/Arkon-Bot.git
    ```
 
-2. Installare le dipendenze (se previste dal progetto):
-
-   ```bash
-   npm install
-   ```
-
-3. Avviare il bot tramite Discord Bot Maker oppure Node.js se esportato:
+2. Avviare il bot tramite Discord Bot Maker oppure Node.js se esportato:
 
    ```bash
    node bot.js
@@ -70,7 +64,3 @@ I contributi sono benvenuti. Per proporre modifiche:
 ## 📄 Licenza
 
 Distribuito con licenza **MIT**. Vedere `LICENSE` per ulteriori dettagli.
-
----
-
-Se desidera aggiungere badge, GIF dimostrative, o una sezione per FAQ, mi faccia sapere.
